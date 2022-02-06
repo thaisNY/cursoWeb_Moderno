@@ -15,5 +15,6 @@ console.log(media.toFixed(2));
 console.log(media.toString());
 console.log(media.toString(2));//converte em binario
 console.log(typeof media);
+//Number() eh função, number eh tipo 
 
 
